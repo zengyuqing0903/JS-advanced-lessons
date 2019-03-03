@@ -1,3 +1,5 @@
+// 2019/3/2
+
 //类型检测typeof一般用于值类型检测
 console.log(typeof 123);//number
 console.log(typeof NAN);//number
